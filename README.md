@@ -5,7 +5,7 @@
 # Project 2. LED-Control-with-Image-Detection using  Arduino , OpenCV, MediaPipe and Pyserial
 
 
-# PART 1: Servomotor control using Image Detection 
+## PART 1: Servomotor control using Image Detection 
 Control a servo motor in real-time using hand gestures detected by your webcam! This project uses MediaPipe for hand tracking, OpenCV for video capture and visualization, and an Arduino to control the servo motor.
 
 ## Overview
