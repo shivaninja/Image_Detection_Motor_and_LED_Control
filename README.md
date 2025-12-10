@@ -1,4 +1,4 @@
-# This RIPO contains two projects that can also be connected together. 
+# This RIPO contains two projects that can be connected together or used independently. 
 # 1. Remote-Motor-Control-with-Image-Detection using  Arduino , OpenCV, MediaPipe and Pyserial
 # 2. LED-Control-with-Image-Detection using  Arduino , OpenCV, MediaPipe and Pyserial
 
