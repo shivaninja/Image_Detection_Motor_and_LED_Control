@@ -137,6 +137,8 @@ void loop() {
 
 
 ```
+#Below is the python that for OpenCV for Media processing & Mediapipe for Machine learning Image Detection.
+# Arduino serial library to connect opencv & MediaPipe with arduino  
 
 ```
 
